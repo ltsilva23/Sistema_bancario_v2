@@ -38,16 +38,17 @@ Subclasses de `Transacao` que implementam as operações de saque e depósito.
 ## Como Usar
 
 1. Clone este repositório:
-   
+   ```sh
    git clone https://github.com/seu-usuario/sistema-bancario-python.git
    cd sistema-bancario-python
 
 
-3. Execute o script `main.py`:
+2. Execute o script `main.py`:
+    ```sh
    python main.py
 
 
-5. Siga as instruções no menu para realizar as operações desejadas.
+3. Siga as instruções no menu para realizar as operações desejadas.
 
 ## Estrutura do Menu
 
