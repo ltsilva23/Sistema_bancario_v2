@@ -59,12 +59,10 @@ O menu principal oferece as seguintes opções:
 
         1 - Depositar
         2 - Sacar
-        3 - Consultar Saldo
-        4 - Extrato
-        5 - Novo cliente
-        6 - Criar conta
-        7 - Listar clientes
-        8 - Listar contas de um cliente
+        3 - Extrato
+        4 - Novo cliente
+        5 - Criar conta
+        6 - Listar contas de um cliente 
         0 - Sair
 ========================================
 ```
@@ -72,10 +70,10 @@ O menu principal oferece as seguintes opções:
 ### Exemplo de Uso
 
 #### Criar um Novo Cliente
-Selecione a opção `5` e siga as instruções para fornecer os detalhes do cliente.
+Selecione a opção `4` e siga as instruções para fornecer os detalhes do cliente.
 
 #### Criar uma Nova Conta
-Selecione a opção `6` após criar um cliente e forneça os detalhes da conta.
+Selecione a opção `5` após criar um cliente e forneça os detalhes da conta.
 
 #### Realizar um Depósito
 Selecione a opção `1`, insira o CPF do cliente e o valor a ser depositado.
