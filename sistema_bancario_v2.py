@@ -357,7 +357,7 @@ menu = """
         3 - Extrato
         4 - Novo cliente
         5 - Criar conta
-        6 - Listar contas
+        6 - Listar contas de um cliente 
         0 - Sair
 ========================================
 """
