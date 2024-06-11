@@ -170,23 +170,6 @@ class Deposito(Transacao):
         if conta.depositar(self.valor):
             conta.historico.adicionar_transacao(self)
 
-def menu():
-     """
-
-============Olá, Bem-Vindo!============
-
-        1 - Depositar
-        2 - Sacar
-        3 - Consultar Saldo
-        4 - Extrato
-        5 - Novo cliente
-        6 - Listar clientes
-        7 - Criar conta
-        8 - Listar contas de um cliente
-        0 - Sair
-========================================
-"""
-
 def validar_valor(mensagem):
     while True:
         valor = input(mensagem)
